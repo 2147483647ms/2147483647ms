@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello im 2147483647ms
+ __Currently know__ <br>
+> Java <br>
+> Batch <br>
+<br>
 
-<!--
-**2147483647ms/2147483647ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__I am learning__<br>
+> Kotlin<br>
+> Javascript (more specificly svelte)<br>
+> Html<br>
+<br>
+<br>
+Contact 12x12#5505
+<br>
+<br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=2147483647ms&show_icons=true&theme=tokyonight" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=2147483647ms&layout=compact" />
