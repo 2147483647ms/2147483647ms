@@ -6,7 +6,7 @@
 
 __I am learning__<br>
 > Kotlin<br>
-> C#
+> C# <br>
 > Javascript (more specificly svelte)<br>
 > Html<br>
 <br>
