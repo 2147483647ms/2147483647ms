@@ -2,13 +2,14 @@
  __Currently know__ <br>
 > Java <br>
 > Batch <br>
+> Html<br>
 <br>
 
 __I am learning__<br>
 > Kotlin<br>
 > C# <br>
 > Javascript (more specificly svelte)<br>
-> Html<br>
+> 
 <br>
 <br>
 Contact 12x12#5505
